@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-bug-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngusFu/vuepress-bug-report.git"
+  },
+  "author": "wemlion <angusfu1126@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngusFu/vuepress-bug-report/issues"
+  },
+  "homepage": "https://github.com/AngusFu/vuepress-bug-report#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.40"
+  }
+}
